@@ -30,3 +30,7 @@
 
 - What is a vector? Like [here](https://www.incibe.es/en/incibe-cert/early-warning/vulnerabilities/cve-2026-25606)
 
+
+## Additional
+
+- learnt about `SOP` and its history, learn about `CSRF`, and learn about `Stored XSS`.
