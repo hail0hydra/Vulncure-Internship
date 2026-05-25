@@ -18,11 +18,15 @@
 
 - I about [this]() latest CVE today``
 
-- detailed report [here](./cve_id.md)
+- detailed report [here](./cve-2026-25606.md)
 
 
 ## Book Progress
 
 - started reading [this]("../books/The Web Application Hacker's Handbook V2.pdf") book
 
+
+## Doubts
+
+- What is a vector? Like [here](https://www.incibe.es/en/incibe-cert/early-warning/vulnerabilities/cve-2026-25606)
 
