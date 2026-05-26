@@ -2,6 +2,8 @@
 
 - writeup can be found at [this](https://medium.com/@GeneralEG/escalating-ssrf-to-rce-f28c482eb8b9) link.
 
+<br>
+<br>
 
 ## Description
 
@@ -12,6 +14,9 @@
 
 - This writeup shows how a simple image fetching mecahism can lead to Remote Code Execution.
 
+<br>
+<br>
+
 ## Details
 
 - The researcher for this exploit is [Youssef A. Mohamed](https://medium.com/@GeneralEG).
@@ -19,10 +24,15 @@
 - This exploit attacks a `PaaS` instance of __AWS__, specifically __AWS Elastic Beanstalk__.
 
 
+<br>
+<br>
+
 ### AWS Elastic Beanstalk
 
 - It is fully managed, PaaS, capable or resource provisioning, scalability of services, and also provides health monitoring on top for the Apps you have deployed.
 
+<br>
+<br>
 
 ### Methodology
 
@@ -51,15 +61,20 @@ https://docs.redact.com/report/api/v2/help/asset?url=https://generaleg0x01.com&m
 
 ![out-of-band-resource-loading](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*D6OCABU3_IEvu9wp.jpg)
 
-- This is geenrally called as __`out of band resource loading`__.
+- This is generally called as __`out of band resource loading`__.
 
+
+<br>
+<br>
 
 ## Next Steps
 
-- in Burpsuite, the researcher had seen a HTTP-Header: `X-Amz-Cf-Id`.
+- in Burpsuite, the researcher had seen a __HTTP-Header__: `X-Amz-Cf-Id`.
 
-- This  is kind of a indicator that this is an AMAZON environment.
+- This  is kind of a indicator that this is an __AMAZON environment__.
 
+<br>
+<br>
 
 ### Local Link
 
@@ -88,6 +103,8 @@ https://docs.redact.com/report/api/v2/help/asset?url=https://generaleg0x01.com&m
 - found role: __[aws-beanstalk-ec2-role]__
 
 
+<br>
+<br>
 
 ### Grabbing Credentials and setting up Aws Cli
 
@@ -100,6 +117,8 @@ https://docs.redact.com/report/api/v2/help/asset?url=https://generaleg0x01.com&m
 
 - so with all this, the researcher was able to setup aws cli and get more information about the environment from there.
 
+<br>
+<br>
 
 ### RCE attempts
 
