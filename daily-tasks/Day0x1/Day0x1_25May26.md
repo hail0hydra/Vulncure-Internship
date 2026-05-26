@@ -16,7 +16,7 @@
 
 ## CVE
 
-- I about [this]() latest CVE today``
+- I read about [this](https://nvd.nist.gov/vuln/detail/CVE-2026-25606) latest CVE today``
 
 - detailed report [here](./cve-2026-25606.md)
 
