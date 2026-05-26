@@ -1,4 +1,4 @@
-# Day 0x1 Tasks
+# Day 0x2 Tasks
 
 - In the meeting that we had last Saturday, we were given daily tasks that can be looked [here](./daily.md).
 
