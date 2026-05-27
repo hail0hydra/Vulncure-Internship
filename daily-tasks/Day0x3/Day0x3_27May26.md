@@ -19,9 +19,9 @@
 
 ### CVE
 
-- I read about [this]() CVE today.
+- I read about [this](https://github.com/advisories/GHSA-9hx7-c53c-v6x8) CVE today.
 
-- detailed report can be found [here]()
+- detailed report can be found [here](./cve-2026-44177.md)
 
 <br>
 <br>
