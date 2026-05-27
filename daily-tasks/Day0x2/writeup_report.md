@@ -12,7 +12,7 @@
 - The domains and targets for which the writeup was writted are private and hence are redacted. The researcher referred to them as `redact.com`
 
 
-- This writeup shows how a simple image fetching mecahism can lead to Remote Code Execution.
+- This writeup shows how a simple image fetching mecahnism can lead to Remote Code Execution.
 
 <br>
 <br>

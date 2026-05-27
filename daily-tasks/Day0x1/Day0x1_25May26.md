@@ -1,6 +1,6 @@
 # Day 0x1 Tasks
 
-- In the meeting that we had last Saturday, we were given daily tasks that can be looked [here](./daily.md).
+- In the meeting that we had last Saturday, we were given daily tasks that can be looked [here](../daily.md).
 
 - This document contains the daily documented report for the same.
 

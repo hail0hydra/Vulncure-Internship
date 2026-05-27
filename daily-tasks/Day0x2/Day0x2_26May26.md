@@ -1,6 +1,6 @@
 # Day 0x2 Tasks
 
-- In the meeting that we had last Saturday, we were given daily tasks that can be looked [here](./daily.md).
+- In the meeting that we had last Saturday, we were given daily tasks that can be looked [here](../daily.md).
 
 - This document contains the daily documented report for the same.
 
@@ -24,4 +24,4 @@
 
 ### Extra
 
-- Got to learn about a new, Asia Region focused alternative to Shodan - [FOFA](https://fofa.info)
+- Got to learn about a new, Asia Region focused alternative to Shodan - [FOFA](https://fofa.info) (Foresee & Find it All)(FOrensics FOr All)
