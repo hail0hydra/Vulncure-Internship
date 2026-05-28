@@ -55,7 +55,7 @@
 
 ####  __Answers__:
 
-1. after analyszing all the requests, it was made clear that the website __identified__ users with a __Unique ID__.
+1. after analysing all the requests, it was made clear that the website __identified__ users with a __Unique ID__.
 
 2. The website allows users to __Create and manage CMS__
 
@@ -72,7 +72,7 @@
 - The ID of researcher is `405`
 
 ```HTTP
-PUT /api/v1/cmd/405 HTTP/2
+PUT /api/v1/cms/405 HTTP/2
 ```
 
 <br>
