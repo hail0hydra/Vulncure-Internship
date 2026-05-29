@@ -16,9 +16,9 @@
 
 ## CVE
 
-- I read about [this]() latest CVE today
+- I read about [this](https://www.tenable.com/security/research/tra-2026-45) latest CVE today
 
-- detailed report [here]()
+- detailed report [here](./cve-2026-8364.md)
 
 
 ## Book Progress

