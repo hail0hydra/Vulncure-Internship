@@ -29,6 +29,6 @@
 
 ## Additional
 
-- learnt about `Cookies` and `expiration`, `Authentication Bearer` and there importance.
+- learnt about `Cookies` and `expiration`, `Authorization Bearer` and there importance.
 
 - learnt how cookies lead to csrf, where is bearer is vulnerable to XSS attacks.
