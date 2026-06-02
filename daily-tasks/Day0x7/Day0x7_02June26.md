@@ -27,9 +27,11 @@
 
 ## P4 vulnerability
 
--
+- Vulnerability name: `Missing Secure or HTTPOnly Cookie Flag`, VRT Category: `Server Security Misconfiguration`
 
-- read [this]() writeup to understand it.
+- read [this](https://medium.com/@sauravkrish59/understanding-and-reporting-informational-bugs-a-case-study-on-missing-httponly-cookie-flags-that-29e289902613) writeup to understand it.
+
+- it targeted [this](https://play.immutable.com/#how-it-works) website.
 
 <br>
 
