@@ -2,15 +2,15 @@
 
 - The 5 bugs I have chosen to research more about are:
 
-1. __SSRF__
+1. [x] __SSRF__
 
-2. __CSRF__
+2. [x] __CSRF__
 
-3. __Arbitrary File Upload__
+3. [x] __Arbitrary File Upload__
 
-4. __Path Traversal__
+4. [x] __Path Traversal__
 
-5. __IDOR__
+5. [x] __IDOR__
 
 <br>
 <br>
@@ -27,6 +27,8 @@
 <br>
 
 ##### Writeup
+
+- I read [this](https://medium.com/bugbountywriteup/ssrf-in-apis-how-a-single-url-parameter-can-expose-internal-systems-63128bff63a4) writeup today to better understand SSRF.
 
 <br>
 <br>
@@ -64,6 +66,8 @@ https://target.com/admin/delete/user/?uid=xxxx?confirm=true
 <br>
 
 ##### Writeup
+
+- I read basic DVWA walk-through to explain CSRF which can be found [here](https://medium.com/@Kamal_S/dvwa-cross-site-request-forgery-csrf-vulnerability-low-security-b02dce2423b4)
 
 <br>
 <br>
@@ -125,6 +129,8 @@ GET /images/../../../../etc/passwd HTTP/1.1
 
 ##### Writeup
 
+- A mix of SSRF and Path Traversal, providing access to internal sensitive files. The writeup I read is [here](https://medium.com/fmisec/how-i-exploited-a-secondary-context-bug-to-trigger-ssrf-path-traversal-in-backend-api-calls-f1023cac5384)
+
 <br>
 <br>
 
@@ -147,3 +153,5 @@ https://readacted.com/accounts/user?id=008
 <br>
 
 ##### Writeup
+
+- Cool IDOR vulnerability writeup, how random IDs were found easily and used for IDOR based bug exploitations. writeup is [here](https://kresec.medium.com/idor-vulnerability-despite-non-enumerable-object-identifiers-fd4379b89fa0)

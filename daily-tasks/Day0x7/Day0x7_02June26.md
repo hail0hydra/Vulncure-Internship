@@ -27,7 +27,7 @@
 
 ## P4 vulnerability
 
-- Vulnerability name: `Missing Secure or HTTPOnly Cookie Flag`, VRT Category: `Server Security Misconfiguration`
+- Vulnerability name: `Missing Secure or HTTPOnly Cookie Flag`, VRT Category: `Server Security Misconfiguration`, Affected function: `Session Token`
 
 - read [this](https://medium.com/@sauravkrish59/understanding-and-reporting-informational-bugs-a-case-study-on-missing-httponly-cookie-flags-that-29e289902613) writeup to understand it.
 
@@ -36,6 +36,8 @@
 <br>
 
 ## Recon
+
+- recon reports can be found [here](./recon.md)
 
 
 ## Book Progress
