@@ -26,3 +26,8 @@
 - Web hacker's handbook V2
 
 - Bug Bounty play book both V1 and V2 by ghostlulz
+
+
+## New Tasks
+
+- Pick up 5 of your favourite Bugs, and read and document about them.
