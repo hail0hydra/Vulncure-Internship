@@ -1,0 +1,52 @@
+## Documentation for 5 bugs
+
+- The 5 bugs I have chosen to research more about are:
+
+1. [x] __SSRF__
+
+2. [x] __CSRF__
+
+3. [x] __Arbitrary File Upload__
+
+4. [x] __Path Traversal__
+
+5. [x] __IDOR__
+
+<br>
+<br>
+
+
+### 1. SSRF
+
+- writeup [here]()
+
+
+<br>
+<br>
+
+### 2. CSRF
+
+- writeup [here]()
+
+<br>
+<br>
+
+
+### 3. Arbitrary File Uploads
+
+- writeup [here]()
+
+
+<br>
+<br>
+
+### 4. Path Traversal
+
+- writeup [here]()
+
+<br>
+<br>
+
+### 5. IDOR - Insecure Direct Object Reference
+
+- writeup [here]()
