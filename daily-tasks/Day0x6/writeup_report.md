@@ -1,5 +1,6 @@
 # Writeup - Bypassing a login page and getting admin access on an internal training platform
 
+- Researcher: [Louis Shyers](https://medium.com/@l_s_)
 
 - writeup report [here](https://medium.com/@l_s_/bypassing-a-login-page-and-getting-full-admin-access-on-an-internal-training-platform-ff5abd88135e)
 
@@ -29,7 +30,7 @@ platform.com
 ![page](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Q-u4B5jjr5oW-A4LAeHOJA.png)
 
 
-- getting redirected to an internal endopoint like:
+- clicking on report, getting redirected to an internal endopoint like:
 
 ```
 internal.platform/ReportServer/?%2fRegion&rs:Command=ListChildren.

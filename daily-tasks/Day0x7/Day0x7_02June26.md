@@ -11,7 +11,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://c0nqr0r.medium.com/idor-and-broken-access-control-risking-private-data-exposure-dd808412ed13) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
