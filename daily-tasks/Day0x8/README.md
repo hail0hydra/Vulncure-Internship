@@ -1,5 +1,7 @@
 # Day 0x8 Tasks
 
+__Date__: 03June26
+
 - In the meeting that we had on 23rd of May 2026 (Saturday) , we were given daily tasks that can be looked [here](../daily.md).
 
 - This also includes some new tasks, given to us on 1 June 2026.

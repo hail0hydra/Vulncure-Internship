@@ -56,7 +56,7 @@ def render_templates(folder, day, date_str):
     year = datetime.now().year
 
     files = {
-        f"Day0x{day}_{date_str}.md": (
+        f"README.md": (
             "day.md.j2",
             {
                 "day": day,

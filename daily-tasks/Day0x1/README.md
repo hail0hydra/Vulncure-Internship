@@ -1,5 +1,7 @@
 # Day 0x1 Tasks
 
+**Date**: 25May26
+
 - In the meeting that we had last Saturday, we were given daily tasks that can be looked [here](../daily.md).
 
 - This document contains the daily documented report for the same.

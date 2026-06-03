@@ -1,4 +1,6 @@
-# Day 0x1 Tasks
+# Day 0x4 Tasks
+
+__Date__: 28May26
 
 - In the meeting that we had last Saturday, we were given daily tasks that can be looked [here](../daily.md).
 
