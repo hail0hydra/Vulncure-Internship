@@ -16,9 +16,12 @@ def get_next_day():
     current = int(COUNTER_FILE.read_text().strip())
     next_day = current + 1
 
-    COUNTER_FILE.write_text(str(next_day))
 
     return next_day
+
+def save_day(day):
+    COUNTER_FILE.write_text(str(day))
+
 
 
 def get_date():
@@ -33,12 +36,16 @@ def get_date():
 
 
 def create_folder_structure(folder):
-    folder.mkdir(exist_ok=True)
+    if folder.exists():
+        print(f"[!] Folder already exists: {folder}")
+        raise SystemExit(1)
 
-    (folder / "screenshots").mkdir(exist_ok=True)
-    (folder / "poc").mkdir(exist_ok=True)
-    (folder / "notes").mkdir(exist_ok=True)
-    (folder / "attachments").mkdir(exist_ok=True)
+    folder.mkdir()
+
+    (folder / "screenshots").mkdir()
+    (folder / "poc").mkdir()
+    (folder / "notes").mkdir()
+    (folder / "attachments").mkdir()
 
 
 def render_templates(folder, day, date_str):
@@ -75,13 +82,20 @@ def render_templates(folder, day, date_str):
         ),
     }
 
+    for _, (template_name, _) in files.items():
+        env.get_template(template_name)
+
     for filename, (template_name, context) in files.items():
 
         template = env.get_template(template_name)
 
         output_file = folder / filename
 
-        with open(output_file, "w") as f:
+        if output_file.exists():
+            print(f"[!] File already exists: {output_file}")
+            raise SystemExit(1)
+
+        with open(output_file, "x") as f:
             f.write(template.render(**context))
 
 
@@ -98,11 +112,14 @@ def main():
 
     render_templates(folder, day, date_str)
 
+    save_day(day)
+
     print()
     print(f"[+] Created {folder_name}")
     print(f"[+] Date: {date_str}")
     print()
     print(folder)
+
 
 
 if __name__ == "__main__":
