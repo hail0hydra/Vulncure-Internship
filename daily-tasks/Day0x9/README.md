@@ -14,7 +14,7 @@
 
 - [x] Read a P4 vulnerability & document
 
-- [-] Read __Web Application Hacker's Handbook v2__
+- [ ] Read __Web Application Hacker's Handbook v2__
 
 
 <br>
@@ -23,7 +23,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://medium.com/@0x_xnum/idor-leads-to-account-takeover-of-all-users-ato-27af312c8481) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
