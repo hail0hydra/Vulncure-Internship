@@ -1,0 +1,1 @@
+- what is __DOMAIN CONFUSION__. Read this writeup for CSRF [here](../bugs.md)

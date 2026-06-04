@@ -1,0 +1,57 @@
+# Day 0x9 Tasks
+
+**Date:** 04June26
+
+<br>
+
+## Goals
+
+- [ ]
+
+<br>
+<br>
+
+## Writeup (pentester.land)
+
+
+- I read [this]() writeup today.
+
+- detailed report for it can be found [here](writeup_report.md)
+
+
+<br>
+
+## CVE
+
+- I read about [this]() latest CVE today
+
+- detailed report [here]()
+
+
+<br>
+
+## P4 vulnerability
+
+
+- Vulnerability name: ``, VRT Category: ``, Variant: ``
+
+- read [this]() writeup to understand it.
+
+
+<br>
+
+
+## Book Progress
+
+-
+
+<br>
+
+## 5 bugs report
+
+- the report for my 5 bugs can be found documented [here](./bugs.md)
+
+
+## Extra
+
+-
