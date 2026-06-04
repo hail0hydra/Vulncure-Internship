@@ -8,13 +8,13 @@
 
 - [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [x] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
-- [ ] Read __Web Application Hacker's Handbook v2__
+- [x] Read __Web Application Hacker's Handbook v2__
 
 
 <br>
