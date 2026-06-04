@@ -14,7 +14,7 @@
 
 - [x] Read a P4 vulnerability & document
 
-- [x] Read __Web Application Hacker's Handbook v2__
+- [-] Read __Web Application Hacker's Handbook v2__
 
 
 <br>
@@ -42,9 +42,9 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Disclosure of Secrets`, VRT Category: `Sensitive Data exposure`, Variant: `PII Leakage/Exposure`
 
-- read [this]() writeup to understand it.
+- read [this](https://osintteam.blog/how-i-discovered-a-p4-bug-on-the-u-s-social-security-administration-8236ecd2a003) writeup to understand it.
 
 
 <br>
@@ -52,7 +52,7 @@
 
 ## Book Progress
 
--
+- halted at chapter 5
 
 <br>
 
@@ -63,4 +63,6 @@
 
 ## Extra
 
--
+- learn about file upload bypasses
+
+- learnt about DOMAIN CONFUSION, still a little confused about it (pun in 10 dead)
