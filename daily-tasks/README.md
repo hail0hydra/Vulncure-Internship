@@ -1,0 +1,48 @@
+# Daily Tasks Index
+
+This repository tracks my daily vulnerability research, bug bounty practice, CVE analysis, and writeups.
+
+---
+
+<br>
+
+---
+
+## Week 0x1 (25 May 2026 → 02 June 2026)
+
+| Day     | Date         | Notes                     |
+| ------- | ------------ | ------------------------- |
+| Day 0x1 | 25 May 2026  | [Open](./Week0x1/Day0x1/) |
+| Day 0x2 | 26 May 2026  | [Open](./Week0x1/Day0x2/) |
+| Day 0x3 | 27 May 2026  | [Open](./Week0x1/Day0x3/) |
+| Day 0x4 | 28 May 2026  | [Open](./Week0x1/Day0x4/) |
+| Day 0x5 | 29 May 2026  | [Open](./Week0x1/Day0x5/) |
+| Day 0x6 | 01 June 2026 | [Open](./Week0x1/Day0x6/) |
+| Day 0x7 | 02 June 2026 | [Open](./Week0x1/Day0x7/) |
+
+---
+
+## Week 0x2 (03 June 2026 → 05 June 2026)
+
+| Day     | Date         | Notes                     |
+| ------- | ------------ | ------------------------- |
+| Day 0x1 | 03 June 2026 | [Open](./Week0x2/Day0x1/) |
+| Day 0x2 | 04 June 2026 | [Open](./Week0x2/Day0x2/) |
+| Day 0x3 | 05 June 2026 | [Open](./Week0x2/Day0x3/) |
+
+---
+
+## Statistics
+
+| Metric              | Count   |
+| ------------------- | ------- |
+| Logged Days         | 10      |
+| CVEs Studied        | Ongoing |
+| Bug Reports Written | Ongoing |
+| Writeups Completed  | Ongoing |
+
+---
+
+
+> Future plan: After Week 0x4, the repository will transition from a weekly organization model to a monthly archive structure.
+
