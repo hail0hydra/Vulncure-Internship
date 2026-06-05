@@ -46,6 +46,7 @@
 
 - read [this](medium.com/@cybershree/p4-bug-2-account-deletion-lacks-password-verification-a8633a00c9fc) writeup to understand it.
 
+- can be looked up [here](https://bugcrowd.com/vulnerability-rating-taxonomy)
 
 <br>
 
