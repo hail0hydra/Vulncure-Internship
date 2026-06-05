@@ -67,3 +67,5 @@
 - Learn about Cache Deception
 
 - Got to know about WebHooks
+
+- Solved lab 1 for Web-Cache Deception; using path deception technique [here](https://portswigger.net/web-security/web-cache-deception)
