@@ -7,15 +7,15 @@
 ## Goals
 
 
-- [ ] Read on 5 selected bugs each (additional: solve labs) & document
+- [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [x] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
-- [ ] Read  __Web Application Hacker's Handbook v2__
+- [x] Read  __Web Application Hacker's Handbook v2__
 
 <br>
 <br>
@@ -23,7 +23,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://www.nc-lp.com/blog/critical-information-disclosure-on-wappalyzer-com) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
@@ -32,9 +32,9 @@
 
 ## CVE
 
-- I read about [this]() latest CVE today
+- I read about [this](https://www.tenable.com/cve/CVE-2026-5228) latest CVE today
 
-- detailed report [here]()
+- detailed report [here](./cve-2026-5228.md)
 
 
 <br>
@@ -53,7 +53,7 @@
 
 ## Book Progress
 
--
+- started with Chapter 6
 
 <br>
 
@@ -64,4 +64,6 @@
 
 ## Extra
 
--
+- Learn about Cache Deception
+
+- Got to know about WebHooks
