@@ -2,7 +2,7 @@
 
 - in the totality of however many IDOR bug writeups I have read, I can see a pattern:
 
-    - They all (resesrchers) create two Accounts on the website. For quickly getting the access to the Eyes of the Eye DOOR. (id)
+    - They all (researchers) create two Accounts on the website. For quickly getting the access to the Eyes of the Eye DOOR. (id)
 
 
 <br>

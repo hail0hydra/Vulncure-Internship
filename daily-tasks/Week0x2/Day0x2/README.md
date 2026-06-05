@@ -66,3 +66,7 @@
 - learn about file upload bypasses
 
 - learnt about DOMAIN CONFUSION, still a little confused about it (pun in 10 dead)
+
+- leant about SSTI
+
+- solved all EASY web labs on picoctf, and 2 MEDIUM ones.
