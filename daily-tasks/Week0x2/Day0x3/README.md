@@ -42,9 +42,9 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Lack of Password Confirmation`, VRT Category: `Seerver Security Misconfiguration`, Variant: `Delete Account`
 
-- read [this]() writeup to understand it.
+- read [this](medium.com/@cybershree/p4-bug-2-account-deletion-lacks-password-verification-a8633a00c9fc) writeup to understand it.
 
 
 <br>
