@@ -72,7 +72,7 @@
 
 - writeup [here](https://jorianwoltjer.com/blog/p/coding/cache-deception-on-my-new-site?utm_source=bugbountydaily.com&utm_medium=referral)
 
-- new term: __Cache Deception__
+- new term: __[Cache Deception](./notes/notes.md)__
 
 
 <br>
