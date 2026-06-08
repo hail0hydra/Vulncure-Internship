@@ -13,7 +13,7 @@
 
 - [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
 - [x] Read  __Bug Bounty Playbook v1__
 
@@ -42,9 +42,9 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Cache Deception`, VRT Category: `Server Security Misconfiguration`,
 
-- read [this]() writeup to understand it.
+- read [this](https://infosecwriteups.com/cache-control-an-easy-p4-vulnerability-746138597d10) writeup to understand it.
 
 
 <br>

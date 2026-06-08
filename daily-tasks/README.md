@@ -29,6 +29,7 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 | Day 0x1 | 03 June 2026 | [Open](./Week0x2/Day0x1/) |
 | Day 0x2 | 04 June 2026 | [Open](./Week0x2/Day0x2/) |
 | Day 0x3 | 05 June 2026 | [Open](./Week0x2/Day0x3/) |
+| Day 0x4 | 08 June 2026 | [Open](./Week0x2/Day0x4/) |
 
 ---
 
