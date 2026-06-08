@@ -10,7 +10,7 @@
 
 1. assetfinder
 2. httpx
-3. waykackurls
+3. waybackurls
 4. gau
 5. gf
 6. qsreplace

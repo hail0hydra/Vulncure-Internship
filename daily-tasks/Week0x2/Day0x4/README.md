@@ -9,7 +9,7 @@
 
 - [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [x] Read a latest CVE and document
 
 - [x] Read a generic bug bounty writeup and document
 
@@ -32,9 +32,9 @@
 
 ## CVE
 
-- I read about [this]() latest CVE today
+- I read about [this](https://nvd.nist.gov/vuln/detail/CVE-2026-0257) latest CVE today
 
-- detailed report [here]()
+- detailed report [here](./cve-2026-0257.md)
 
 
 <br>
@@ -52,15 +52,10 @@
 
 ## Book Progress
 
-- Completed 3 chapters
+- Completed 3 chapters of Bug Bounty Playbook v1
 
 <br>
 
 ## 5 bugs report
 
 - the report for my 5 bugs can be found documented [here](./bugs.md)
-
-
-## Extra
-
--

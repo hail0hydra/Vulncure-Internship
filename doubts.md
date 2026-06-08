@@ -4,3 +4,9 @@
 2. What is P1 category vulnerability
 
     - [categorization of bugs](https://www.bugcrowd.com/glossary/vulnerability-priority/)
+
+<br>
+
+> [!WARNING]
+>
+> shifted into the `notes` directory of each day.
