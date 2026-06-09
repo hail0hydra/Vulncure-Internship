@@ -42,9 +42,9 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Email Verfication Bypass`, VRT Category: `Server Security Misconfiguration`, Variant: ``
 
-- read [this]() writeup to understand it.
+- read [this](https://web.archive.org/web/20200821010435/https://medium.com/@Alone_Wwolf/how-i-was-able-to-bypass-email-confirm-p4-e17af66a4eb0) writeup to understand it.
 
 
 <br>
@@ -52,7 +52,7 @@
 
 ## Book Progress
 
--
+- WAHH - Chapter 5, Bug Bounty Playbook - Chapter 6
 
 <br>
 
