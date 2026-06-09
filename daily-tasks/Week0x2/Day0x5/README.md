@@ -11,9 +11,9 @@
 
 - [ ] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
 - [x] Read  __Web Application Hacker's Handbook v2__
 
@@ -23,7 +23,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://oussamarahali.com/blog/butterfly-effect-zero-click-account-takeover/) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
@@ -46,6 +46,22 @@
 
 - read [this](https://web.archive.org/web/20200821010435/https://medium.com/@Alone_Wwolf/how-i-was-able-to-bypass-email-confirm-p4-e17af66a4eb0) writeup to understand it.
 
+```json
+{
+  "iss": "https://example.com/",
+  "sub": "auth0|5e87be92dbfafe0c43caec38",
+  "aud": [
+    "https://example.com/",
+    "https://example.auth0.com/userinfo"
+  ],
+  "iat": 1585956128,
+  "exp": 1594041240,
+  "azp": "wklft5h557v4NT4XZsH3epPYzKEtkPrZ",
+  "scope": "openid profile",
+  "gty": "password",
+  "jti": "bc7d414e-4b96-4468-a216-7a97a5e22188"
+}
+```
 
 <br>
 
