@@ -52,7 +52,7 @@
 
 ## Book Progress
 
-- Completed 3 chapters of Bug Bounty Playbook v1
+- Completed 6 chapters of Bug Bounty Playbook v1
 
 <br>
 
