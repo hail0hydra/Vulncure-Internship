@@ -11,7 +11,7 @@
 
 - [ ] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup and document
 
 - [ ] Read a P4 vulnerability & document
 
@@ -42,9 +42,11 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `???`, VRT Category: `External Behaviour`, Variant: `???`
 
-- read [this]() writeup to understand it.
+- read [this](https://takester.medium.com/unintended-behaviour-of-domain-got-me-p4-d6af19b5dcdd) writeup to understand it.
+
+- couldn't understand this properly. What was the issue?
 
 
 <br>
