@@ -9,11 +9,11 @@
 
 - [x] Read on 5 selected bugs each & document
 
-- [ ] Read a latest CVE and document
+- [-] Read a latest CVE and document
 
 - [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
 - [x] Read  __Bug Bounty PlayBook v1__
 
