@@ -32,9 +32,11 @@
 
 ## CVE
 
-- I read about [this]() latest CVE today
+- ~~I read about [this]() latest CVE today~~
 
-- detailed report [here]()
+- ~~detailed report [here]()~~
+
+- Power Cut 🥲
 
 
 <br>
