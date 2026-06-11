@@ -9,7 +9,7 @@
 
 - [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [x] Read a latest CVE and document
 
 - [x] Read a generic bug bounty writeup and document
 
@@ -32,9 +32,9 @@
 
 ## CVE
 
-- I read about [this]() latest CVE today
+- I read about [this](https://nvd.nist.gov/vuln/detail/cve-2025-4222) latest CVE today
 
-- detailed report [here]()
+- detailed report [here](./cve-2025-4222.md)
 
 
 <br>
