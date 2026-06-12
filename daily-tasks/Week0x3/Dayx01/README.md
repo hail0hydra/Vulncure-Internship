@@ -11,7 +11,7 @@
 
 - [ ] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup and document
 
 - [x] Read a P4 vulnerability & document
 
