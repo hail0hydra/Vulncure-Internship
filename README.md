@@ -4,7 +4,10 @@
 
 <br>
 
+---
+
 ## Tools
+just some tools I got to know about:
 
 #### Recon
 
@@ -19,3 +22,17 @@
 9. katana
 10. crt.sh
 11. altdns
+
+<br>
+
+---
+
+### Research
+
+simple way to find "low severity" or any in that matter, bugs, on hackitivity:
+
+```DORK
+site:hackerone.com/reports "Severity: Low"
+```
+
+---
