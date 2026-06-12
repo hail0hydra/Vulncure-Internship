@@ -48,7 +48,7 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 
 | Metric              | Count   |
 | ------------------- | ------- |
-| Logged Days         | 14      |
+| Logged Days         | 15      |
 | CVEs Studied        | Ongoing |
 | Bug Reports Written | Ongoing |
 | Writeups Completed  | Ongoing |

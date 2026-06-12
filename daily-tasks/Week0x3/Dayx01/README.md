@@ -9,7 +9,7 @@
 
 - [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [x] Read a latest CVE and document
 
 - [x] Read a generic bug bounty writeup and document
 
