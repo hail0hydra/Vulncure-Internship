@@ -11,9 +11,9 @@
 
 - [ ] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
 - [x] Read  **Bug Bounty Playbook V1**
 
@@ -23,7 +23,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://web.archive.org/web/20190312192719/https://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
@@ -42,9 +42,11 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Disclosure of Known Public Information`, VRT Category: `Sensitive Data Exposure`
 
-- read [this]() writeup to understand it.
+- read [this](https://hackerone.com/reports/123742) report to understand it.
+
+- The researcher got **`$1`** bounty!
 
 
 <br>
