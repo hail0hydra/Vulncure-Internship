@@ -23,7 +23,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://medium.com/@mohamed0xmuslim/3-easy-cash-via-cache-99d600565ac5) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
@@ -32,9 +32,9 @@
 
 ## CVE
 
-- I read about [this]() latest CVE today
+- I read about [this](https://www.tenable.com/cve/CVE-2026-8406) latest CVE today
 
-- detailed report [here]()
+- detailed report [here](./cve-2026-8406.md)
 
 
 <br>
