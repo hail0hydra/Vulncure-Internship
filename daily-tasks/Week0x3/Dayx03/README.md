@@ -9,7 +9,7 @@
 
 - [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [x] Read a latest CVE and document
 
 - [x] Read a generic bug bounty writeup and document
 
@@ -32,9 +32,9 @@
 
 ## CVE
 
-- I read about [this]() latest CVE today
+- I read about [this](https://www.rapid7.com/blog/post/ve-cve-2026-2329-critical-unauthenticated-stack-buffer-overflow-in-grandstream-gxp1600-voip-phones-fixed/) latest CVE today
 
-- detailed report [here]()
+- detailed report [here](./cve-2026-2329.md)
 
 
 <br>
