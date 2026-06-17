@@ -34,6 +34,8 @@
 
 - HTTP Method Override for **Ruby on Rails**
 
+- Changing and playing with different HTTP methods, **PATCH->POST**
+
 <br>
 <br>
 
