@@ -13,9 +13,9 @@
 
 - [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
-- [ ] Read  __Web Application Hacker's Handbook v2__
+- [-] Read  __Web Application Hacker's Handbook v2__
 
 <br>
 <br>
@@ -42,9 +42,11 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Failure to Invalidate Session`, VRT Category: `Broken Authentication and Session Management`, Variant: `On Logout (Client and Server-Side)`
 
-- read [this]() writeup to understand it.
+- read [this](https://hackerone.com/reports/6504) report to understand it.
+
+- Cookie was not expiring. Same constant cookie being used. One cookie steal, Game Over.
 
 
 <br>
