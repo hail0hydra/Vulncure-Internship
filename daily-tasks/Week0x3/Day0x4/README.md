@@ -9,7 +9,7 @@
 
 - [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [x] Read a latest CVE and document
 
 - [x] Read a generic bug bounty writeup and document
 
@@ -23,7 +23,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://medium.com/@oXnoOneXo/simple-ato-in-private-program-890cd1485675) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
@@ -32,9 +32,9 @@
 
 ## CVE
 
-- I read about [this]() latest CVE today
+- I read about [this](https://www.tenable.com/cve/CVE-2026-39574) latest CVE today
 
-- detailed report [here]()
+- detailed report [here](./cve-2026-39574.md)
 
 
 <br>
@@ -54,7 +54,7 @@
 
 ## Book Progress
 
--
+- Didn't Read much of the book today
 
 <br>
 
@@ -65,4 +65,4 @@
 
 ## Extra
 
--
+- Solved 4/12 CSRF labs over PortSwigger Academy.
