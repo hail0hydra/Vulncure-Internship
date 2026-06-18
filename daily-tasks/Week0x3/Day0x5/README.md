@@ -9,7 +9,7 @@
 
 - [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [-] Read a latest CVE and document
 
 - [x] Read a generic bug bounty writeup
 
@@ -32,9 +32,7 @@
 
 ## CVE
 
-- I read about [this]() latest CVE today
-
-- detailed report [here]()
+- Not read any CVEs today.
 
 
 <br>
