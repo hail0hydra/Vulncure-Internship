@@ -11,11 +11,11 @@
 
 - [ ] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
-- [ ] Read  __Web Application Hacker's Handbook v2__
+- [-] Read  __Web Application Hacker's Handbook v2__
 
 <br>
 <br>
@@ -23,7 +23,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
@@ -42,9 +42,9 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Stored`, VRT Category: `Cross Site Scripting (XSS)`, Variant: `Self`
 
-- read [this]() writeup to understand it.
+- read [this](https://hackerone.com/reports/1404770) writeup to understand it.
 
 
 <br>
@@ -52,7 +52,7 @@
 
 ## Book Progress
 
--
+- None
 
 <br>
 
@@ -63,4 +63,4 @@
 
 ## Extra
 
--
+- One lab on HTTP request Smuggling

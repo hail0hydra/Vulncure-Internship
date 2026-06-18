@@ -1,25 +1,10 @@
-# Vulnerability Report
+# Turning cookie based XSS into account takeover
 
-## Title
+- writeup can be seen [here](https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/)
 
--
+- rsearcher is [Bartłomiej Bergier](https://bergee.it/blog/about-me/)
+
 
 ## Summary
-
--
-
-## Impact
-
--
-
-## Steps To Reproduce
-
-1.
-
-## Proof of Concept
-
--
-
-## Recommendation
 
 -
