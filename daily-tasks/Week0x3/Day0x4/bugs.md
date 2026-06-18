@@ -44,7 +44,9 @@
 
 - writeup [here](https://web.archive.org/web/20200601005729/https://vict0ni.me/unrestricted-file-upload-on-pdf/)
 
-- file upload vulnerability with CSRF. Potential infection and creation of malware. On both user side and the reviewer of CV.
+- file upload vulnerability with CSRF. Potential infection and creation of malware.
+
+- On both user side and the reviewer of ==CV==.
 
 
 <br>
