@@ -39,9 +39,9 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Open Redirect`, VRT Category: `Unvalidated Redirects and Forwards`, Variant: `Header-Based`
 
-- read [this]() writeup to understand it.
+- read [this](https://hackerone.com/reports/1374512) report to understand it.
 
 
 <br>
