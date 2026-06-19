@@ -62,3 +62,7 @@
 ## Extra
 
 - One lab on HTTP request Smuggling
+
+- learnt about cookie based xss
+
+- read about CRLF HTTP request injection, still a little confused.

@@ -1,0 +1,11 @@
+Cool bypass techs
+
+- Nginx path traversal due to misconfig, show the misconfig
+
+- php file upload bypass, all 3 in succesive manners
+
+- Bypassing cache HIT by appending a `?` character
+
+- IDOR to email disclosure, link requiring base64 email to unsubscribe, send mail from admin side as well.
+
+- associated CSRF cookie if not sent, validation function is skipped Server Side. EZ CSRF
