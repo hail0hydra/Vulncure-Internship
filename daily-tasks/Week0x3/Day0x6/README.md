@@ -11,9 +11,9 @@
 
 - [-] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
 - [-] Read  __Web Application Hacker's Handbook v2__
 
@@ -23,7 +23,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://moopinger.github.io/blog/crlf/injection/2024/03/12/CRLF-Injection-Shenanigans.html) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
