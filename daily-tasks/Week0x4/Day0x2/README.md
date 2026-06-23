@@ -9,11 +9,11 @@
 
 - [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [-] Read a latest CVE and document
 
 - [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
 - [x] Read  __Bug Bounty Playbook v1__
 
@@ -42,9 +42,9 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Content Spoofing`, VRT Category: `Server Side Injection`, Variant: `Impersonation via Broken Link Hijacking`
 
-- read [this]() writeup to understand it.
+- read [this](https://hackerone.com/reports/2709660) writeup to understand it.
 
 
 <br>
