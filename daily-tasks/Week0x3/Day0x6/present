@@ -1,0 +1,7 @@
+- Bypass Techs
+
+1. SSRF - bypassing whitelisting, due to weak regex checking -> Redirecting URLs to internal hosts and domains for enumeration
+
+2. Cool SQL wildcard injection, leading to time consumed queries -> DOS
+
+3. Writeup -> CRLF techniques : 2 methods to detect.
