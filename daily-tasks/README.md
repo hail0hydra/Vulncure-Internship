@@ -73,5 +73,5 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 ---
 
 
-> Future plan: After Week 0x4, the repository will transition from a weekly organization model to a monthly archive structure.
+> - [x] Future plan: After Week 0x4, the repository will transition from a weekly organization model to a monthly archive structure.
 
