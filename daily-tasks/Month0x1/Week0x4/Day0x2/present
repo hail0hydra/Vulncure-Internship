@@ -9,3 +9,5 @@
 - Simple numeric IDOR. Leads to deletion of imporant information, Unauthorized.
 
 - Even After secondary mail is unlinked, its session remains, with which an attacker is able to change the secondary mail once again and retain persistence over an account. -> Writeup
+
+- Present P4.
