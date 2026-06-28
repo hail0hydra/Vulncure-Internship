@@ -1,6 +1,6 @@
-# Day 0x{{ day }} Tasks
+# Day 0x25 Tasks
 
-**Date:** {{ date }}
+**Date:** 29June26
 
 <br>
 
@@ -15,7 +15,7 @@
 
 - [ ] Read a P4 vulnerability & document
 
-- [ ] Read  __: Web Application Hacker's Handbook v2 : ( Bug  Bounty Playbook vol 2 ) __
+- [x] Read  __Bug Bounty Playbook vol 2__
 
 <br>
 <br>
@@ -52,7 +52,7 @@
 
 ## Book Progress
 
--
+- Completed till page `71/250`.
 
 <br>
 
