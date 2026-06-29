@@ -7,13 +7,13 @@
 ## Goals
 
 
-- [ ] Read on 5 selected bugs each (additional: solve labs) & document
+- [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [x] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
 - [x] Read  __Bug Bounty Playbook vol 2__
 
@@ -23,32 +23,39 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://infosecwriteups.com/a-story-about-how-i-found-xss-in-asus-cb233ce3bb9c) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
 
 <br>
 
+---
+
 ## CVE
 
-- I read about [this]() latest CVE today
+- I read about [this](https://www.tenable.com/cve/CVE-2026-26980) latest CVE today
 
-- detailed report [here]()
+- detailed report [here](./cve-2026-26980.md)
 
 
 <br>
+
+---
 
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Fingerprinting/Banner Disclosure`, VRT Category: `Server Security Misconfiguration`, Variant: `Software Versions Disclosed in Response Headers`
 
-- read [this]() writeup to understand it.
+- read [this](https://hackerone.com/reports/783852) report to understand it.
+
+- The disclosed NGINX version was vulnerable to 3 CVEs with good severity.
 
 
 <br>
 
+---
 
 ## Book Progress
 
@@ -56,11 +63,8 @@
 
 <br>
 
+---
+
 ## 5 bugs report
 
 - the report for my 5 bugs can be found documented [here](./bugs.md)
-
-
-## Extra
-
--
