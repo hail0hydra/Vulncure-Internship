@@ -9,11 +9,11 @@
 
 - [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [-] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [-] Read a P4 vulnerability & document
 
 - [x] Read  __ Bug  Bounty Playbook vol 2 __
 
@@ -23,7 +23,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://hashimamin.medium.com/logic-flaw-i-can-block-you-from-accessing-your-own-account-63fc2a88bb72) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
@@ -42,9 +42,7 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
-
-- read [this]() writeup to understand it.
+- Did not read any P4 bug today.
 
 
 <br>
