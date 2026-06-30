@@ -7,7 +7,7 @@
 ## Goals
 
 
-- [ ] Read on 5 selected bugs each (additional: solve labs) & document
+- [x] Read on 5 selected bugs each (additional: solve labs) & document
 
 - [ ] Read a latest CVE and document
 
@@ -15,7 +15,7 @@
 
 - [ ] Read a P4 vulnerability & document
 
-- [ ] Read  __: Web Application Hacker's Handbook v2 : ( Bug  Bounty Playbook vol 2 ) __
+- [x] Read  __ Bug  Bounty Playbook vol 2 __
 
 <br>
 <br>
@@ -52,15 +52,10 @@
 
 ## Book Progress
 
--
+- Didn't reach book much, on page 80/250
 
 <br>
 
 ## 5 bugs report
 
 - the report for my 5 bugs can be found documented [here](./bugs.md)
-
-
-## Extra
-
--
