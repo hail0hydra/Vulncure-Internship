@@ -1,0 +1,32 @@
+## Bugs
+
+1. SSRF => functionality to create personal endpoint and make it point to server's ipv6 internal network. (port scans, network mapping, etc)
+
+2. CSRF => if YAHOO account is not connected, that functionality doesn't contain CSRF tokens. One visit to attacker controlled site with a pre-connected session, ATO done.
+
+3. File Upload => Clever file upload, leading to PHP RCE.
+
+4. Path Traversal => Discrepancy in Cache server and App server leads to path traversal.
+
+5. IDOR =>  Reset passwd, token sent on email not being used for the actual functionality, an ID is, which is ofc vulnerable to IDOR.
+
+
+## Writeup
+
+- RXSS in url, can lead to different impacts based on the account compromised. Present due to DEBUG mode on in prod server.
+
+
+## CVE-2026-26980
+
+- SQL injection in Ghost CMS leads to full database read as Admin.
+
+## P4 Bug
+
+- NGINX server version, which is vulnerable to 3 CVEs, is getting sent in Reponse Body.
+
+
+## Book
+
+- Bug Bounty PlayBook vol2 - Page 71
+
+- Done Database, Brute force, and a Little bit of Burp Suite

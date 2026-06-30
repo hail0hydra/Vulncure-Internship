@@ -52,7 +52,7 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 
 ---
 
-### Week 0x4 (23 June 2026)
+### Week 0x4 (23 June 2026 -> 30 June 2026)
 
 | Day     | Date         | Notes                     |
 | ------- | ------------ | ------------------------- |
@@ -60,6 +60,7 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 | Day 0x2 | 24 June 2026 | [Open](./Month0x1/Week0x4/Day0x2/) |
 | Day 0x3 | 26 June 2026 | [Open](./Month0x1/Week0x4/Day0x3/) |
 | Day 0x4 | 29 June 2026 | [Open](./Month0x1/Week0x4/Day0x4/) |
+| Day 0x5 | 30 June 2026 | [Open](./Month0x1/Week0x4/Day0x5/) |
 
 > June 25 Was a Holiday.
 
