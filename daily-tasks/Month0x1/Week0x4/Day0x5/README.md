@@ -32,9 +32,7 @@
 
 ## CVE
 
-- I read about [this]() latest CVE today
-
-- detailed report [here]()
+- NULL
 
 
 <br>
