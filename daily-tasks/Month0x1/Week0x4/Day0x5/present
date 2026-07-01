@@ -1,0 +1,19 @@
+## Bugs
+
+1. SSRF -> in the implementation of AWS Elastic Beanstalk, leading to RCE by uploading vulnerable code to associated s3 via CI/CD.
+
+2. File Upload -> .tgz gets untar-ed and then 4 files are checked, simple `abc.pdf.php` leads to rce. Cool
+
+3. Path Traversal -> LFI in GitLab due to improper file type checking in the issues. Leading to accesss to server files such as **/etc/passwd**
+
+4. IDOR -> changing the `datasource_id` value leads to idor of sensitive user data.
+
+
+## Writeup
+
+cool way to climb up the Leaderboard, also blocking legitimate users access to their OWN Accounts!
+
+
+## Book
+
+80/250
