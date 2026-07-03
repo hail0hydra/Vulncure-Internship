@@ -45,7 +45,7 @@
 
 ## Book Progress
 
-- page 117/250, learn about XSS -> 3 types: reflected, stored and DOM based.
+- page 116/250, learn about XSS -> 3 types: reflected, stored and DOM based.
 
 <br>
 
