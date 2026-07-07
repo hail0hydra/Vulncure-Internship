@@ -13,7 +13,7 @@
 
 - [-] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
 - [x] Read  __Bug  Bounty Playbook vol 2 __
 
@@ -25,9 +25,9 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Visible Detailed Error/Debug Page`, VRT Category: `Sensitive Data Exposure`, Variant: `Derailed Server Configuration`
 
-- read [this]() writeup to understand it.
+- read [this](https://hackerone.com/reports/1822665) report to understand it.
 
 
 <br>
