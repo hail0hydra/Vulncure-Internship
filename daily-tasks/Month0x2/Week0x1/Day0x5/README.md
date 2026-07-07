@@ -7,37 +7,20 @@
 ## Goals
 
 
-- [ ] Read on 5 selected bugs each (additional: solve labs) & document
+- [x] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [-] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [-] Read a generic bug bounty writeup and document
 
 - [ ] Read a P4 vulnerability & document
 
-- [ ] Read  __: Web Application Hacker's Handbook v2 : ( Bug  Bounty Playbook vol 2 ) __
+- [x] Read  __Bug  Bounty Playbook vol 2 __
 
 <br>
 <br>
 
-## Writeup (pentester.land)
 
-
-- I read [this]() writeup today.
-
-- detailed report for it can be found [here](writeup_report.md)
-
-
-<br>
-
-## CVE
-
-- I read about [this]() latest CVE today
-
-- detailed report [here]()
-
-
-<br>
 
 ## P4 vulnerability
 
@@ -52,7 +35,7 @@
 
 ## Book Progress
 
--
+- On page: 170/250
 
 <br>
 
@@ -63,4 +46,4 @@
 
 ## Extra
 
--
+- Read on API testing.
