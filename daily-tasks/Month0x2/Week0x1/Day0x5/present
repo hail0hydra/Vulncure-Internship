@@ -1,0 +1,24 @@
+## bugs
+
+- SSRF -> vulnerabile parameter was the cookie header being sent!
+
+- CSRF -> Old tech being used, vulnerable to a CVE focusing in CSRF.
+
+- Path Traversal -> LFI via "BASE64" path traversal sequence.
+
+- IDOR -> simple vulnerable API parameter, allowing anyone to delete anyone's Gallery's media
+
+- File Upload -> CMS code review leads to cool file extension validation to get RCE.
+
+
+## p4
+
+- phpinfo() being accessible, leaking server configuration details.
+
+## book
+
+- Completed 170 pages out of 250
+
+## extra
+
+- Read a little on API testing
