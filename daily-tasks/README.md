@@ -66,8 +66,25 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 
 > June 25 Was a Holiday.
 
+---
+
+## Month0x2
+
+### Week 0x1 (03 July 2026 → 09 July 2026)
+
+| Day     | Date         | Notes                     |
+| ------- | ------------ | ------------------------- |
+| Day 0x1 | 03 July 2026 | [Open](./Month0x2/Week0x1/Day0x1/) |
+| Day 0x2 | 04 July 2026 | [Open](./Month0x2/Week0x1/Day0x2/) |
+| Day 0x3 | 06 July 2026 | [Open](./Month0x2/Week0x1/Day0x3/) |
+| Day 0x4 | 07 July 2026 | [Open](./Month0x2/Week0x1/Day0x4/) |
+| Day 0x5 | 08 July 2026 | [Open](./Month0x2/Week0x1/Day0x5/) |
+| Day 0x6 | 09 July 2026 | [Open](./Month0x2/Week0x1/Day0x6/) |
+
+
 
 ---
+
 
 ## Statistics
 
