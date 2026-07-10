@@ -28,3 +28,5 @@
 - Implemented API using FastAPI, performed CRUD for now with a Postgres (local machine) DB.
 
 - Read Material on API hacking, doing Labs
+
+- API practical can be found [here](https://github.com/hail0hydra/ApiMon/)
