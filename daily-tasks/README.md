@@ -80,7 +80,9 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 | Day 0x4 | 07 July 2026 | [Open](./Month0x2/Week0x1/Day0x4/) |
 | Day 0x5 | 08 July 2026 | [Open](./Month0x2/Week0x1/Day0x5/) |
 | Day 0x6 | 09 July 2026 | [Open](./Month0x2/Week0x1/Day0x6/) |
+| Day 0x6 | 10 July 2026 | [Open](./Month0x2/Week0x1/Day0x7/) |
 
+---
 
 
 ---
@@ -90,7 +92,7 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 
 | Metric              | Count   |
 | ------------------- | ------- |
-| Logged Days         | 26      |
+| Logged Days         | 33      |
 | CVEs Studied        | Ongoing |
 | Bug Reports Written | Ongoing |
 | Writeups Completed  | Ongoing |
