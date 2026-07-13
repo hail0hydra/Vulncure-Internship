@@ -11,9 +11,9 @@
 
 - [x] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [x] Read a generic bug bounty writeup and document
 
-- [ ] Read a P4 vulnerability & document
+- [x] Read a P4 vulnerability & document
 
 - [x] Read  __ Bug  Bounty Playbook vol 2 __
 
@@ -42,9 +42,9 @@
 ## P4 vulnerability
 
 
-- Vulnerability name: ``, VRT Category: ``, Variant: ``
+- Vulnerability name: `Insecure Direct Object References (IDOR)`, VRT Category: `Broken Access Control (BAC)`, Variant: `Modify/View Sensitive Information(Complex Object Identifiers GUID/UUID)`
 
-- read [this]() writeup to understand it.
+- read [this](https://hackerone.com/reports/3353035) writeup to understand it.
 
 
 <br>
