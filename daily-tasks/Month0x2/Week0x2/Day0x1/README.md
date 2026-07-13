@@ -7,7 +7,7 @@
 ## Goals
 
 
-- [ ] Read on 5 selected bugs each (additional: solve labs) & document
+- [-] Read on 5 selected bugs each (additional: solve labs) & document
 
 - [x] Read a latest CVE and document
 
@@ -23,7 +23,7 @@
 ## Writeup (pentester.land)
 
 
-- I read [this]() writeup today.
+- I read [this](https://remonsec.com/posts/hacking-dutch-gov/) writeup today.
 
 - detailed report for it can be found [here](writeup_report.md)
 
@@ -56,11 +56,7 @@
 
 <br>
 
-## 5 bugs report
-
-- the report for my 5 bugs can be found documented [here](./bugs.md)
-
 
 ## Extra
 
--
+- Continuing with API dev with FastAPI. Implemented JWT.
