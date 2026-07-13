@@ -15,7 +15,7 @@
 
 - [ ] Read a P4 vulnerability & document
 
-- [ ] Read  __: Web Application Hacker's Handbook v2 : ( Bug  Bounty Playbook vol 2 ) __
+- [x] Read  __ Bug  Bounty Playbook vol 2 __
 
 <br>
 <br>
@@ -52,7 +52,7 @@
 
 ## Book Progress
 
--
+- Completed 202/250 Pages.
 
 <br>
 
