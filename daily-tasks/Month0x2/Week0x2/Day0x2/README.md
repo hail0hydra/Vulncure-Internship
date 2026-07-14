@@ -7,11 +7,11 @@
 ## Goals
 
 
-- [ ] Read on 5 selected bugs each (additional: solve labs) & document
+- [-] Read on 5 selected bugs each (additional: solve labs) & document
 
-- [ ] Read a latest CVE and document
+- [-] Read a latest CVE and document
 
-- [ ] Read a generic bug bounty writeup and document
+- [-] Read a generic bug bounty writeup and document
 
 - [x] Read a P4 vulnerability & document
 
@@ -20,24 +20,6 @@
 <br>
 <br>
 
-## Writeup (pentester.land)
-
-
-- I read [this]() writeup today.
-
-- detailed report for it can be found [here](writeup_report.md)
-
-
-<br>
-
-## CVE
-
-- I read about [this]() latest CVE today
-
-- detailed report [here]()
-
-
-<br>
 
 ## P4 vulnerability
 
@@ -52,10 +34,10 @@
 
 ## Book Progress
 
-- 207/250
+- 209/250
 
 <br>
 
-## 5 bugs report
+## Extra
 
-- the report for my 5 bugs can be found documented [here](./bugs.md)
+- Contiuing with API development and another API book
