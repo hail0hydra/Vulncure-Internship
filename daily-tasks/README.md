@@ -12,8 +12,8 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 
 ### Week 0x1 (25 May 2026 → 02 June 2026)
 
-| Day     | Date         | Notes                     |
-| ------- | ------------ | ------------------------- |
+| Day     | Date         | Notes                              |
+| ------- | ------------ | -----------------------------------|
 | Day 0x1 | 25 May 2026  | [Open](./Month0x1/Week0x1/Day0x1/) |
 | Day 0x2 | 26 May 2026  | [Open](./Month0x1/Week0x1/Day0x2/) |
 | Day 0x3 | 27 May 2026  | [Open](./Month0x1/Week0x1/Day0x3/) |
@@ -26,8 +26,8 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 
 ### Week 0x2 (03 June 2026 → 11 June 2026)
 
-| Day     | Date         | Notes                     |
-| ------- | ------------ | ------------------------- |
+| Day     | Date         | Notes                              |
+| ------- | ------------ | -----------------------------------|
 | Day 0x1 | 03 June 2026 | [Open](./Month0x1/Week0x2/Day0x1/) |
 | Day 0x2 | 04 June 2026 | [Open](./Month0x1/Week0x2/Day0x2/) |
 | Day 0x3 | 05 June 2026 | [Open](./Month0x1/Week0x2/Day0x3/) |
@@ -40,8 +40,8 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 
 ### Week 0x3 (12 June 2026 -> 21 June 2026)
 
-| Day     | Date         | Notes                     |
-| ------- | ------------ | ------------------------- |
+| Day     | Date         | Notes                              |
+| ------- | ------------ | -----------------------------------|
 | Day 0x1 | 12 June 2026 | [Open](./Month0x1/Week0x3/Day0x1/) |
 | Day 0x2 | 15 June 2026 | [Open](./Month0x1/Week0x3/Day0x2/) |
 | Day 0x3 | 16 June 2026 | [Open](./Month0x1/Week0x3/Day0x3/) |
@@ -54,8 +54,9 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 
 ### Week 0x4 (23 June 2026 -> 02 July 2026)
 
-| Day     | Date         | Notes                     |
-| ------- | ------------ | ------------------------- |
+
+| Day     | Date         | Notes                              |
+| ------- | ------------ | -----------------------------------|
 | Day 0x1 | 23 June 2026 | [Open](./Month0x1/Week0x4/Day0x1/) |
 | Day 0x2 | 24 June 2026 | [Open](./Month0x1/Week0x4/Day0x2/) |
 | Day 0x3 | 26 June 2026 | [Open](./Month0x1/Week0x4/Day0x3/) |
@@ -72,8 +73,8 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 
 ### Week 0x1 (03 July 2026 → 09 July 2026)
 
-| Day     | Date         | Notes                     |
-| ------- | ------------ | ------------------------- |
+| Day     | Date         | Notes                              |
+| ------- | ------------ | -----------------------------------|
 | Day 0x1 | 03 July 2026 | [Open](./Month0x2/Week0x1/Day0x1/) |
 | Day 0x2 | 04 July 2026 | [Open](./Month0x2/Week0x1/Day0x2/) |
 | Day 0x3 | 06 July 2026 | [Open](./Month0x2/Week0x1/Day0x3/) |
@@ -85,16 +86,32 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 ---
 
 
-### Week 0x2 (13 July 2026)
+### Week 0x2 (13 July 2026 -> 20 July 2026)
 
-| Day     | Date         | Notes                     |
-| ------- | ------------ | ------------------------- |
+
+| Day     | Date         | Notes                              |
+| ------- | ------------ | -----------------------------------|
 | Day 0x1 | 13 July 2026 | [Open](./Month0x2/Week0x2/Day0x1/) |
 | Day 0x2 | 14 July 2026 | [Open](./Month0x2/Week0x2/Day0x2/) |
 | Day 0x3 | 15 July 2026 | [Open](./Month0x2/Week0x2/Day0x3/) |
+| Day 0x4 | 16 July 2026 | Client Pentest  Intialiatiosation  |
+| Day 0x5 | 17 July 2026 | Client Pentest  Engagement         |
+| Day 0x6 | 20 July 2026 | Client Pentest  Engagement         |
+| Day 0x7 | 21 July 2026 | Client Pentest  Engagement         |
 
 ---
 
+### Week 0x3
+
+| Day     | Date         | Notes                              |
+| ------- | ------------ | -----------------------------------|
+| Day 0x1 | 22 July 2026 | Client Pentest  Engagement         |
+| Day 0x2 | 23 July 2026 | Client Pentest  Engagement         |
+
+
+---
+
+<br>
 
 ## Statistics
 
@@ -106,7 +123,3 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 | Writeups Completed  | Ongoing |
 
 ---
-
-
-> - [x] Future plan: After Week 0x4, the repository will transition from a weekly organization model to a monthly archive structure.
-
