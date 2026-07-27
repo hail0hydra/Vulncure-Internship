@@ -107,6 +107,10 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 | ------- | ------------ | -----------------------------------|
 | Day 0x1 | 22 July 2026 | Client Pentest  Engagement         |
 | Day 0x2 | 23 July 2026 | Client Pentest  Engagement         |
+| Day 0x3 | 24 July 2026 | Client Pentest  Engagement         |
+| Day 0x4 | 27 July 2026 | Client Pentest  Completed          |
+
+(Waiting for **Restesting**)
 
 
 ---
