@@ -101,7 +101,8 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 
 ---
 
-### Week 0x3
+### Week 0x3 (22 July 2026 -> 30 July 2026)
+
 
 | Day     | Date         | Notes                              |
 | ------- | ------------ | -----------------------------------|
@@ -109,8 +110,40 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 | Day 0x2 | 23 July 2026 | Client Pentest  Engagement         |
 | Day 0x3 | 24 July 2026 | Client Pentest  Engagement         |
 | Day 0x4 | 27 July 2026 | Client Pentest  Completed          |
+| Day 0x5 | 28 July 2026 | Client Pentest  Completed          |
+| Day 0x6 | 29 July 2026 | Client Pentest  Completed          |
+| Day 0x7 | 30 July 2026 | Client Pentest  Completed          |
 
 (Waiting for **Restesting**)
+
+
+---
+
+
+### Week 0x4 (31 July 2026 -> 10 August 2026)
+
+| Day     | Date         | Notes                              |
+| ------- | ------------ | -----------------------------------|
+| Day 0x1 | 31 Jul 2026  | Client Pentest  Completed          |
+| Day 0x2 | 03 Aug 2026  | Client Meeting                     |
+| Day 0x3 | 04 Aug 2026  | Client Meeting  Completed          |
+| Day 0x4 | 05 Aug 2026  | Waiting for Restest                |
+| Day 0x5 | 06 Aug 2026  | Waiting for Restest                |
+| Day 0x6 | 07 Aug 2026  | Waiting for Restest                |
+| Day 0x7 | 10 Aug 2026  | Waiting for Restest                |
+
+
+---
+
+<br>
+
+## Month0x3
+
+### Week 0x1
+
+| Day     | Date         | Notes                               |
+| ------- | ------------ | ------------------------------------|
+| Day 0x1 | 11 Aug 2026  | Waiting for Restest and bug hunting |
 
 
 ---
