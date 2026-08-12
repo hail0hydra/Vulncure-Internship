@@ -33,9 +33,11 @@ just some tools I got to know about:
 
 ##  Engagements
 
-1. Had first engagement on a University with [`debang5shu`](https://medium.com/@debang5hu). - [Engagement 0x1](https://tinyurl.com/Engagement0x1)
+1. Had first engagement on a University with [`debang5shu`](https://medium.com/@debang5hu).
 
-2. Had second engagement on an API based client with a good team of 6 people - [Engagement0x2](https://tinyurl.com/Engagement0x2)
+2. Had second engagement on an API based client with a good team of 6 people.https://github.com/hail0hydra/Vulncure-Internship/tree/main
+
+- got private repos for both.
 
 ---
 
