@@ -27,6 +27,21 @@ just some tools I got to know about:
 
 ---
 
+<br>
+<br>
+
+
+##  Engagements
+
+1. Had first engagement on a University with [`debang5shu`](https://medium.com/@debang5hu). - [Engagement 0x1](https://tinyurl.com/Engagement0x1)
+
+2. Had second engagement on an API based client with a good team of 6 people - [Engagement0x2](https://tinyurl.com/Engagement0x2)
+
+---
+
+<br>
+<br>
+
 ### Research
 
 simple way to find "low severity" or any in that matter, bugs, on hackitivity:
