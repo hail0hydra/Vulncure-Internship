@@ -144,6 +144,9 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 | Day     | Date         | Notes                               |
 | ------- | ------------ | ------------------------------------|
 | Day 0x1 | 11 Aug 2026  | Waiting for Restest and bug hunting |
+| Day 0x2 | 12 Aug 2026  | Retesting started                   |
+| Day 0x3 | 13 Aug 2026  | Retesting in progress               |
+| Day 0x4 | 14 Aug 2026  | Retesting in progress               |
 
 
 ---

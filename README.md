@@ -35,8 +35,7 @@ just some tools I got to know about:
 
 1. Had first engagement on a University with [`debang5shu`](https://medium.com/@debang5hu).
 
-2. Had second engagement on an API based client with a good team of 6 people.https://github.com/hail0hydra/Vulncure-Internship/tree/main
-
+2. Had second engagement on an API based client with a good team of 6 people.
 - got private repos for both.
 
 ---
