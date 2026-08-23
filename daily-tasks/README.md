@@ -147,7 +147,17 @@ This repository tracks my daily vulnerability research, bug bounty practice, CVE
 | Day 0x2 | 12 Aug 2026  | Retesting started                   |
 | Day 0x3 | 13 Aug 2026  | Retesting in progress               |
 | Day 0x4 | 14 Aug 2026  | Retesting in progress               |
+| Day 0x5 | 17 Aug 2026  | Retesting Completed                 |
+| Day 0x6 | 18 Aug 2026  | Completed Engagement                |
+| Day 0x7 | 19 Aug 2026  | Completed Final Meeting             |
 
+
+---
+
+
+### Last Day
+
+- `20th of August` was the last day for the Internship.
 
 ---
 
